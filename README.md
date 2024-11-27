@@ -27,3 +27,7 @@ The **Cricket Match Prediction** project aims to calculate India's winning proba
    ```
 2. Follow the prompts to select the opponent team, playing XI, and ground location.
 3. View the predicted winning probability for India.
+
+## Output
+![output1](https://github.com/user-attachments/assets/20c3b835-a814-4110-9e64-a320dbc92392)
+![output2](https://github.com/user-attachments/assets/ea0672d4-3bbc-49ec-8c53-5884b3eeb06b)
