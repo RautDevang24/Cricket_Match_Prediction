@@ -23,7 +23,7 @@ The **Cricket Match Prediction** project aims to calculate India's winning proba
 
 1. Run the application:
    ```sh
-   python app.py
+   streamlit run app.py
    ```
 2. Follow the prompts to select the opponent team, playing XI, and ground location.
 3. View the predicted winning probability for India.
